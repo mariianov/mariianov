@@ -2,7 +2,7 @@
 My name is ***Mariia***, and I am currently working towards a master's degree in data and investigative journalism.  
 My pronouns are *she/her*.  
 I am extemely fond of <ins>analyzing datasets</ins> and <ins>creating informative visualizations</ins>.  
-_Please let me know if you ever come across a dataset about skunks_.
+
 
 <!--
 **mariianov/mariianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
